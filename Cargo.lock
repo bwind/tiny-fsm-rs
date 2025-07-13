@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "tiny-fsm-rs"
+name = "tiny-finite-state-machine"
 version = "0.1.0"
